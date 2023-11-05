@@ -19,8 +19,3 @@
 Conexiones a pines Arduino UNO:  
 - D05-= Coordenada Y de Osciloscopio  
 - D06-= Coordenada X de Osciloscopio  
-
-*** Pines de conexion ***
-  
-D5-= Coordenada Y de Osciloscopio  
-D6-= Coordenada X de Osciloscopio  
